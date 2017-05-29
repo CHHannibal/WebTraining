@@ -1,0 +1,34 @@
+.PV800-Dashboard{
+	
+}
+.PV800-Dashboard>div>img{
+	height: 140px;
+}
+.PV800-Nav{
+	background-color: gray;
+}
+.navbar-nav>li>a{
+	font-size: 16px;
+	font-weight: bold;
+	color: white;
+}
+.PV800-Dashboard-Title{
+	background-color: darkgrey;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: center;
+	color: aliceblue;
+}
+.PV800-Dashboard-Content{
+	background-color: rgb(238,238,226);
+}
+.PV800-Dashboard-Content>div{
+	border: solid;
+	border-color: gainsboro;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
